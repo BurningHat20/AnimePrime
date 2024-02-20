@@ -7,7 +7,7 @@ Welcome to the AnimePrime frontend repository! This project utilizes Next.js, Fr
 
 ## Demo
 
-Check out the live demo of AnimePrime [here](https://animeprime.netlify.app).
+Check out the live demo of AnimePrime [here](https://animprime.vercel.app/).
 
 ## Features
 

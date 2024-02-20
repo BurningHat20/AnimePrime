@@ -52,7 +52,7 @@ Your feedback is greatly appreciated! If you encounter any issues, have suggesti
 
 ## About the Developer
 
-This project was developed by [BurningHat](https://burninghat.tech/), a passionate web developer with a keen interest in building innovative and user-friendly applications. Connect with me on [LinkedIn](www.linkedin.com/in/yashgohel777) to stay updated on my latest projects and professional endeavors.
+This project was developed by [BurningHat](https://burninghat.tech/), a passionate web developer with a keen interest in building innovative and user-friendly applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/yashgohel777/) to stay updated on my latest projects and professional endeavors.
 
 ---
 
